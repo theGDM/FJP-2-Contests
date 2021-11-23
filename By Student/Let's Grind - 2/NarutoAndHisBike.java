@@ -25,7 +25,6 @@
 // YES
 // YES
 
-import java.io.*;
 import java.util.*;
 
 public class  NarutoAndHisBike{
