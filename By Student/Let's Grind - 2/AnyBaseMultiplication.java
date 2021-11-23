@@ -23,7 +23,6 @@
 // Sample Output 0
 // 43320
 
-import java.io.*;
 import java.util.*;
 
 public class AnyBaseMultiplication {
